@@ -8,12 +8,18 @@ Both of the algorithms were implemented successfully in C++. The results obtaine
 
 
 
-Nearest Neightbour Algorithm:
+Nearest Neightbour Algorithm results:
 
 ![NN algorithm](https://github.com/ApurvaSaumya/Analysis-of-Algorithms-for-Solving-the-Travelling-Salesman-Problem/blob/master/nearest-neighbor-output.png?raw=true)
 
 
-Genetic Algorithm:
+
+
+
+Genetic Algorithm results:
+
+
+
 ![GA algorithm](https://github.com/ApurvaSaumya/Analysis-of-Algorithms-for-Solving-the-Travelling-Salesman-Problem/blob/master/genetic-algorithm-output.png?raw=true)
 
 
